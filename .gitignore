@@ -1,1 +1,4 @@
 This is .ignore file 
+
+# Ignore all .odt files
+*.odt
